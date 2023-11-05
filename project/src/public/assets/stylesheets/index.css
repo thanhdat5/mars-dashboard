@@ -1,0 +1,8 @@
+.rover-card .card-img{
+  flex: 1;
+  display: block;
+  text-decoration: none;
+}
+.rover-card .card-body{
+  flex: initial;
+}
